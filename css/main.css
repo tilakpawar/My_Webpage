@@ -1360,6 +1360,11 @@ header .header-logo a {
 	padding: 0;
 	outline: 0;
 	border: 10%;
+	border-radius: 7px;
+	-webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        -ms-border-radius: 7px;
+        -o-border-radius: 7px;
 	width: 60px;
 	height: 60px;
 	background: url("../images/logo.png") no-repeat center;
