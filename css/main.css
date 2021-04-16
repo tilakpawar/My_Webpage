@@ -1359,7 +1359,7 @@ header .header-logo a {
 	margin: 0;
 	padding: 0;
 	outline: 0;
-	border: none;
+	border-radius: 7px;
 	width: 60px;
 	height: 60px;
 	background: url("../images/logo.png") no-repeat center;
